@@ -1,0 +1,36 @@
+/* Generated from sites/gimme-moore/site.json. */
+:root {
+  --bg: #faf7f1;
+  --bg-alt: #f0e8d8;
+  --surface: #ffffff;
+  --ink: #1f1a14;
+  --muted: #665c4e;
+  --line: #e4d9c4;
+  --accent: #8a6a1a;
+  --accent-strong: #6b5213;
+  --accent-ink: #ffffff;
+  --accent-soft: #f3e7c4;
+  --accent-on-dark: #e3c470;
+  --dark: #1c1812;
+  --dark-ink: #faf7f1;
+  --error: #b42318;
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-body: 'Work Sans', 'Helvetica Neue', Arial, sans-serif;
+  --display-weight: 600;
+  --display-tracking: -0.01em;
+  --radius: 16px;
+  --button-radius: 999px;
+  --hero-position: center 40%;
+  --logo-ratio: 1;
+  --product-position: center;
+  --topbar-bg: #ffffff;
+  --topbar-ink: #1f1a14;
+  --topbar-line: #e4d9c4;
+  --product-fit: cover;
+  --product-bg: #faf7f1;
+  --logo-bg: #000000;
+  --logo-pad: 0.3rem 0.5rem;
+  --gutter: clamp(1rem, 4vw, 3rem);
+  --max-width: 1200px;
+  color-scheme: light;
+}
